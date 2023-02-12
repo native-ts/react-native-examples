@@ -1,0 +1,9 @@
+[submodule "@native-ts/action-bar"]
+	path = packages/@native-ts/action-bar
+	url = git@github.com:native-ts/react-native-action-bar.git
+[submodule "@native-ts/icons"]
+	path = packages/@native-ts/icons
+	url = git@github.com:native-ts/react-native-icons.git
+[submodule "@native-ts/common"]
+	path = packages/@native-ts/common
+	url = git@github.com:native-ts/react-native-common.git
