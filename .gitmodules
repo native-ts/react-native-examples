@@ -7,3 +7,6 @@
 [submodule "@native-ts/common"]
 	path = packages/@native-ts/common
 	url = git@github.com:native-ts/react-native-common.git
+[submodule "@native-ts/drawer"]
+	path = packages/@native-ts/drawer
+	url = git@github.com:native-ts/react-native-drawer.git

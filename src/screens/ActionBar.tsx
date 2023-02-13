@@ -1,5 +1,5 @@
 import React, { FC } from "react";
-import ActionBar from "@native-ts/action-bar/ActionBar";
+import ActionBar from "@native-ts/action-bar";
 import Screen from "../components/Screen";
 
 const ActionBarScreen: FC = () => {
