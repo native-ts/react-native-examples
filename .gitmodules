@@ -10,3 +10,6 @@
 [submodule "@native-ts/drawer"]
 	path = packages/@native-ts/drawer
 	url = git@github.com:native-ts/react-native-drawer.git
+[submodule "@native-ts/rotate"]
+	path = packages/@native-ts/rotate
+	url = git@github.com:native-ts/react-native-rotate.git
