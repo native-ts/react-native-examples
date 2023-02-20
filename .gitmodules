@@ -13,3 +13,6 @@
 [submodule "@native-ts/rotate"]
 	path = packages/@native-ts/rotate
 	url = git@github.com:native-ts/react-native-rotate.git
+[submodule "@native-ts/progress"]
+	path = packages/@native-ts/progress
+	url = git@github.com:native-ts/react-native-progress.git
