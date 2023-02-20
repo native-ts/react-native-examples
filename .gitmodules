@@ -16,3 +16,6 @@
 [submodule "@native-ts/progress"]
 	path = packages/@native-ts/progress
 	url = git@github.com:native-ts/react-native-progress.git
+[submodule "@native-ts/unlock-screen"]
+	path = packages/@native-ts/unlock-screen
+	url = git@github.com:native-ts/react-native-unlock-screen.git
